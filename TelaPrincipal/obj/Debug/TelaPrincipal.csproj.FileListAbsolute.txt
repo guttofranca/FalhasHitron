@@ -1,0 +1,11 @@
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\bin\Debug\TelaPrincipal.exe.config
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\bin\Debug\TelaPrincipal.exe
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\bin\Debug\TelaPrincipal.pdb
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\obj\Debug\TelaPrincipal.csproj.AssemblyReference.cache
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\obj\Debug\TelaPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\obj\Debug\TelaPrincipal.FormTelaPrincipal.resources
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\obj\Debug\TelaPrincipal.Properties.Resources.resources
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\obj\Debug\TelaPrincipal.csproj.GenerateResource.cache
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\obj\Debug\TelaPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\obj\Debug\TelaPrincipal.exe
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\TelaPrincipal\obj\Debug\TelaPrincipal.pdb

@@ -1,0 +1,6 @@
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.model\bin\Debug\Sistema.model.dll
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.model\bin\Debug\Sistema.model.pdb
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.model\obj\Debug\Sistema.model.csproj.AssemblyReference.cache
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.model\obj\Debug\Sistema.model.csproj.CoreCompileInputs.cache
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.model\obj\Debug\Sistema.model.dll
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.model\obj\Debug\Sistema.model.pdb

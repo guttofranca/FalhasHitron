@@ -1,0 +1,10 @@
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.DAO\bin\Debug\Sistema.DAO.dll.config
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.DAO\bin\Debug\Sistema.DAO.dll
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.DAO\bin\Debug\Sistema.DAO.pdb
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.DAO\bin\Debug\Sistema.entidades.dll
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.DAO\bin\Debug\Sistema.entidades.pdb
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.DAO\obj\Debug\Sistema.DAO.csproj.AssemblyReference.cache
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.DAO\obj\Debug\Sistema.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.DAO\obj\Debug\Sistema.DAO.csproj.CopyComplete
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.DAO\obj\Debug\Sistema.DAO.dll
+C:\Users\Engenharia De Testes\source\repos\FalhasHitron\Sistema.DAO\obj\Debug\Sistema.DAO.pdb
